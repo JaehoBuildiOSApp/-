@@ -13,6 +13,28 @@
 		030CC48A2710AEA600C53B5B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 030CC4882710AEA600C53B5B /* Main.storyboard */; };
 		030CC48C2710AEAA00C53B5B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 030CC48B2710AEAA00C53B5B /* Assets.xcassets */; };
 		030CC48F2710AEAA00C53B5B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 030CC48D2710AEAA00C53B5B /* LaunchScreen.storyboard */; };
+		030CC4AD2710AFDB00C53B5B /* 왕의남자.png in Resources */ = {isa = PBXBuildFile; fileRef = 030CC4992710AFD900C53B5B /* 왕의남자.png */; };
+		030CC4AE2710AFDB00C53B5B /* 광해.png in Resources */ = {isa = PBXBuildFile; fileRef = 030CC49A2710AFD900C53B5B /* 광해.png */; };
+		030CC4AF2710AFDB00C53B5B /* 신과함께인과연.png in Resources */ = {isa = PBXBuildFile; fileRef = 030CC49B2710AFD900C53B5B /* 신과함께인과연.png */; };
+		030CC4B02710AFDB00C53B5B /* 알라딘.png in Resources */ = {isa = PBXBuildFile; fileRef = 030CC49C2710AFD900C53B5B /* 알라딘.png */; };
+		030CC4B12710AFDB00C53B5B /* 겨울왕국2.png in Resources */ = {isa = PBXBuildFile; fileRef = 030CC49D2710AFD900C53B5B /* 겨울왕국2.png */; };
+		030CC4B22710AFDB00C53B5B /* 해운대.png in Resources */ = {isa = PBXBuildFile; fileRef = 030CC49E2710AFD900C53B5B /* 해운대.png */; };
+		030CC4B32710AFDB00C53B5B /* 국제시장.png in Resources */ = {isa = PBXBuildFile; fileRef = 030CC49F2710AFDA00C53B5B /* 국제시장.png */; };
+		030CC4B42710AFDB00C53B5B /* 암살.png in Resources */ = {isa = PBXBuildFile; fileRef = 030CC4A02710AFDA00C53B5B /* 암살.png */; };
+		030CC4B52710AFDB00C53B5B /* 베테랑.png in Resources */ = {isa = PBXBuildFile; fileRef = 030CC4A12710AFDA00C53B5B /* 베테랑.png */; };
+		030CC4B62710AFDB00C53B5B /* 극한직업.png in Resources */ = {isa = PBXBuildFile; fileRef = 030CC4A22710AFDA00C53B5B /* 극한직업.png */; };
+		030CC4B72710AFDB00C53B5B /* 신과함께죄와벌.png in Resources */ = {isa = PBXBuildFile; fileRef = 030CC4A32710AFDA00C53B5B /* 신과함께죄와벌.png */; };
+		030CC4B82710AFDB00C53B5B /* 7번방의선물.png in Resources */ = {isa = PBXBuildFile; fileRef = 030CC4A42710AFDB00C53B5B /* 7번방의선물.png */; };
+		030CC4B92710AFDB00C53B5B /* 어벤져스엔드게임.png in Resources */ = {isa = PBXBuildFile; fileRef = 030CC4A52710AFDB00C53B5B /* 어벤져스엔드게임.png */; };
+		030CC4BA2710AFDB00C53B5B /* 괴물.png in Resources */ = {isa = PBXBuildFile; fileRef = 030CC4A62710AFDB00C53B5B /* 괴물.png */; };
+		030CC4BB2710AFDB00C53B5B /* 부산행.png in Resources */ = {isa = PBXBuildFile; fileRef = 030CC4A72710AFDB00C53B5B /* 부산행.png */; };
+		030CC4BC2710AFDB00C53B5B /* 태극기휘날리며.png in Resources */ = {isa = PBXBuildFile; fileRef = 030CC4A82710AFDB00C53B5B /* 태극기휘날리며.png */; };
+		030CC4BD2710AFDB00C53B5B /* 아바타.png in Resources */ = {isa = PBXBuildFile; fileRef = 030CC4A92710AFDB00C53B5B /* 아바타.png */; };
+		030CC4BE2710AFDB00C53B5B /* 택시운전사.png in Resources */ = {isa = PBXBuildFile; fileRef = 030CC4AA2710AFDB00C53B5B /* 택시운전사.png */; };
+		030CC4BF2710AFDB00C53B5B /* 명량.png in Resources */ = {isa = PBXBuildFile; fileRef = 030CC4AB2710AFDB00C53B5B /* 명량.png */; };
+		030CC4C02710AFDB00C53B5B /* 도둑들.png in Resources */ = {isa = PBXBuildFile; fileRef = 030CC4AC2710AFDB00C53B5B /* 도둑들.png */; };
+		030CC4C32710B1D400C53B5B /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = 030CC4C22710B1D400C53B5B /* background.png */; };
+		03FB9FF52710BB4200DA2338 /* circleViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03FB9FF42710BB4200DA2338 /* circleViews.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +46,28 @@
 		030CC48B2710AEAA00C53B5B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		030CC48E2710AEAA00C53B5B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		030CC4902710AEAA00C53B5B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		030CC4992710AFD900C53B5B /* 왕의남자.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "왕의남자.png"; sourceTree = "<group>"; };
+		030CC49A2710AFD900C53B5B /* 광해.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "광해.png"; sourceTree = "<group>"; };
+		030CC49B2710AFD900C53B5B /* 신과함께인과연.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "신과함께인과연.png"; sourceTree = "<group>"; };
+		030CC49C2710AFD900C53B5B /* 알라딘.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "알라딘.png"; sourceTree = "<group>"; };
+		030CC49D2710AFD900C53B5B /* 겨울왕국2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "겨울왕국2.png"; sourceTree = "<group>"; };
+		030CC49E2710AFD900C53B5B /* 해운대.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "해운대.png"; sourceTree = "<group>"; };
+		030CC49F2710AFDA00C53B5B /* 국제시장.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "국제시장.png"; sourceTree = "<group>"; };
+		030CC4A02710AFDA00C53B5B /* 암살.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "암살.png"; sourceTree = "<group>"; };
+		030CC4A12710AFDA00C53B5B /* 베테랑.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "베테랑.png"; sourceTree = "<group>"; };
+		030CC4A22710AFDA00C53B5B /* 극한직업.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "극한직업.png"; sourceTree = "<group>"; };
+		030CC4A32710AFDA00C53B5B /* 신과함께죄와벌.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "신과함께죄와벌.png"; sourceTree = "<group>"; };
+		030CC4A42710AFDB00C53B5B /* 7번방의선물.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "7번방의선물.png"; sourceTree = "<group>"; };
+		030CC4A52710AFDB00C53B5B /* 어벤져스엔드게임.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "어벤져스엔드게임.png"; sourceTree = "<group>"; };
+		030CC4A62710AFDB00C53B5B /* 괴물.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "괴물.png"; sourceTree = "<group>"; };
+		030CC4A72710AFDB00C53B5B /* 부산행.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "부산행.png"; sourceTree = "<group>"; };
+		030CC4A82710AFDB00C53B5B /* 태극기휘날리며.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "태극기휘날리며.png"; sourceTree = "<group>"; };
+		030CC4A92710AFDB00C53B5B /* 아바타.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "아바타.png"; sourceTree = "<group>"; };
+		030CC4AA2710AFDB00C53B5B /* 택시운전사.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "택시운전사.png"; sourceTree = "<group>"; };
+		030CC4AB2710AFDB00C53B5B /* 명량.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "명량.png"; sourceTree = "<group>"; };
+		030CC4AC2710AFDB00C53B5B /* 도둑들.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "도둑들.png"; sourceTree = "<group>"; };
+		030CC4C22710B1D400C53B5B /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
+		03FB9FF42710BB4200DA2338 /* circleViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = circleViews.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,15 +100,45 @@
 		030CC4812710AEA600C53B5B /* practice001_NetflixUI */ = {
 			isa = PBXGroup;
 			children = (
+				030CC4982710AFCE00C53B5B /* moviePosters */,
 				030CC4822710AEA600C53B5B /* AppDelegate.swift */,
 				030CC4842710AEA600C53B5B /* SceneDelegate.swift */,
 				030CC4862710AEA600C53B5B /* ViewController.swift */,
 				030CC4882710AEA600C53B5B /* Main.storyboard */,
+				03FB9FF42710BB4200DA2338 /* circleViews.swift */,
 				030CC48B2710AEAA00C53B5B /* Assets.xcassets */,
 				030CC48D2710AEAA00C53B5B /* LaunchScreen.storyboard */,
 				030CC4902710AEAA00C53B5B /* Info.plist */,
 			);
 			path = practice001_NetflixUI;
+			sourceTree = "<group>";
+		};
+		030CC4982710AFCE00C53B5B /* moviePosters */ = {
+			isa = PBXGroup;
+			children = (
+				030CC4C22710B1D400C53B5B /* background.png */,
+				030CC4A42710AFDB00C53B5B /* 7번방의선물.png */,
+				030CC49D2710AFD900C53B5B /* 겨울왕국2.png */,
+				030CC49A2710AFD900C53B5B /* 광해.png */,
+				030CC4A62710AFDB00C53B5B /* 괴물.png */,
+				030CC49F2710AFDA00C53B5B /* 국제시장.png */,
+				030CC4A22710AFDA00C53B5B /* 극한직업.png */,
+				030CC4AC2710AFDB00C53B5B /* 도둑들.png */,
+				030CC4AB2710AFDB00C53B5B /* 명량.png */,
+				030CC4A12710AFDA00C53B5B /* 베테랑.png */,
+				030CC4A72710AFDB00C53B5B /* 부산행.png */,
+				030CC49B2710AFD900C53B5B /* 신과함께인과연.png */,
+				030CC4A32710AFDA00C53B5B /* 신과함께죄와벌.png */,
+				030CC4A92710AFDB00C53B5B /* 아바타.png */,
+				030CC49C2710AFD900C53B5B /* 알라딘.png */,
+				030CC4A02710AFDA00C53B5B /* 암살.png */,
+				030CC4A52710AFDB00C53B5B /* 어벤져스엔드게임.png */,
+				030CC4992710AFD900C53B5B /* 왕의남자.png */,
+				030CC4A82710AFDB00C53B5B /* 태극기휘날리며.png */,
+				030CC4AA2710AFDB00C53B5B /* 택시운전사.png */,
+				030CC49E2710AFD900C53B5B /* 해운대.png */,
+			);
+			path = moviePosters;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -124,9 +198,30 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				030CC4B92710AFDB00C53B5B /* 어벤져스엔드게임.png in Resources */,
+				030CC4C32710B1D400C53B5B /* background.png in Resources */,
+				030CC4AE2710AFDB00C53B5B /* 광해.png in Resources */,
+				030CC4AF2710AFDB00C53B5B /* 신과함께인과연.png in Resources */,
+				030CC4B32710AFDB00C53B5B /* 국제시장.png in Resources */,
+				030CC4B52710AFDB00C53B5B /* 베테랑.png in Resources */,
+				030CC4C02710AFDB00C53B5B /* 도둑들.png in Resources */,
+				030CC4BB2710AFDB00C53B5B /* 부산행.png in Resources */,
+				030CC4BF2710AFDB00C53B5B /* 명량.png in Resources */,
+				030CC4B62710AFDB00C53B5B /* 극한직업.png in Resources */,
+				030CC4B42710AFDB00C53B5B /* 암살.png in Resources */,
+				030CC4B82710AFDB00C53B5B /* 7번방의선물.png in Resources */,
+				030CC4AD2710AFDB00C53B5B /* 왕의남자.png in Resources */,
+				030CC4BD2710AFDB00C53B5B /* 아바타.png in Resources */,
+				030CC4B12710AFDB00C53B5B /* 겨울왕국2.png in Resources */,
+				030CC4B72710AFDB00C53B5B /* 신과함께죄와벌.png in Resources */,
+				030CC4B02710AFDB00C53B5B /* 알라딘.png in Resources */,
 				030CC48F2710AEAA00C53B5B /* LaunchScreen.storyboard in Resources */,
+				030CC4BA2710AFDB00C53B5B /* 괴물.png in Resources */,
 				030CC48C2710AEAA00C53B5B /* Assets.xcassets in Resources */,
 				030CC48A2710AEA600C53B5B /* Main.storyboard in Resources */,
+				030CC4BC2710AFDB00C53B5B /* 태극기휘날리며.png in Resources */,
+				030CC4BE2710AFDB00C53B5B /* 택시운전사.png in Resources */,
+				030CC4B22710AFDB00C53B5B /* 해운대.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,6 +232,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				03FB9FF52710BB4200DA2338 /* circleViews.swift in Sources */,
 				030CC4872710AEA600C53B5B /* ViewController.swift in Sources */,
 				030CC4832710AEA600C53B5B /* AppDelegate.swift in Sources */,
 				030CC4852710AEA600C53B5B /* SceneDelegate.swift in Sources */,
@@ -295,7 +391,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.JaehoJung.practice001-NetflixUI";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -313,7 +409,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.JaehoJung.practice001-NetflixUI";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
